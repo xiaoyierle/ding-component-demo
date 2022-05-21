@@ -1,0 +1,8 @@
+{
+	"publicComponents": {
+		"component-template": "components/component-template/index",
+		"chart": "components/chart/index"
+	},
+	"main": "index.js",
+	"pluginId": ""
+}

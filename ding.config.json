@@ -1,0 +1,9 @@
+{
+	"type": "plugin",
+	"typescript": false,
+	"base": "./",
+	"outDir": "./",
+	"miniAppId": "",
+	"token": "",
+	"version": "0.0.40"
+}

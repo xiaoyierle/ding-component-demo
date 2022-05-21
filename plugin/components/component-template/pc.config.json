@@ -1,0 +1,15 @@
+{
+  "pluginComponentName": "component-template",
+  "name": "组件模板",
+  "icon": "https://static.dingtalk.com/media/lALOB0o7K8yQzJA_144_144.png",
+  "previewUrl": "https://static.dingtalk.com/media/lALOB0o7K8yQzJA_144_144.png",
+  "previewHeight": 200,
+  "quickSetting": {
+    "useStandardHead": true,
+    "useStandardContainer": true,
+    "containerType": "standard"
+  },
+  "props": {
+  },
+  "setters": []
+}
